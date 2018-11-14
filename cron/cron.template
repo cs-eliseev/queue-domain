@@ -1,0 +1,4 @@
+APP_PATH=/projects/
+
+# queue
+* * * * * /bin/bash ${APP_PATH}/otus-queue/bin/queue_check_https.sh || echo -e "\n !! Script failed with status $?"

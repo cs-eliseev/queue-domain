@@ -1,0 +1,30 @@
+
+**************************************************
+[14.11.2018 23:57:32] START daemon
+---------------------- 
+[1] Start process queue id: 1
+[1] Process get login: ayeliseyev
+[1] Process get domain: codedude.ru
+[1] Domain codedude.ru redirect is configured!
+[1] Send mail info
+[1] Stop process queue id: 1
+
+**************************************************
+[14.11.2018 23:57:57] START daemon
+---------------------- 
+[2] Start process queue id: 2
+[2] Process get login: ayeliseyev
+[2] Process get domain: codedude.ru
+[2] Domain codedude.ru redirect is configured!
+[2] Send mail info
+[2] Stop process queue id: 2
+
+**************************************************
+[14.11.2018 23:59:17] START daemon
+---------------------- 
+[3] Start process queue id: 3
+[3] Process get login: eliseev
+[3] Process get domain: google.ru
+[3] Domain google.ru redirect is not configured!
+[3] Send mail info
+[3] Stop process queue id: 3

@@ -1,0 +1,20 @@
+{
+    "name": "cs-eliseev/otus-queue",
+    "description": "Queue redirect domain",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eliseev Alexey",
+            "email": "a.k.eliseev@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "queue\\": "src"
+        }
+    }
+}
